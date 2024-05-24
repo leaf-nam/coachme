@@ -79,7 +79,7 @@
 
 ### 메인 화면
 
-![메인화면](/uploads/9d1d63c380832752b83b50b8fea6abea/메인화면.JPG)
+![메인화면](https://github.com/leaf-nam/coachme/assets/119817396/d1a49503-4686-450c-835d-7a95d8003959)
 
 ### 검색화면(코치)
 
